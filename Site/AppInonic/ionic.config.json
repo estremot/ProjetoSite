@@ -1,0 +1,7 @@
+{
+  "name": "AppInonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
